@@ -9,12 +9,12 @@ Yaaf.Xmpp.ServerDialback
 **Development Branch**
 
 [![Build Status](https://travis-ci.org/matthid/Yaaf.Xmpp.ServerDialback.svg?branch=develop)](https://travis-ci.org/matthid/Yaaf.Xmpp.ServerDialback)
-[![Build status](https://ci.appveyor.com/api/projects/status/cadxq6ofubx739b1/branch/develop?svg=true)](https://ci.appveyor.com/project/matthid/yaaf-xmpp-vcard/branch/develop)
+[![Build status](https://ci.appveyor.com/api/projects/status/g5r7ysahmg0y0knt/branch/develop?svg=true)](https://ci.appveyor.com/project/matthid/yaaf-xmpp-serverdialback/branch/develop)
 
 **Master Branch**
 
 [![Build Status](https://travis-ci.org/matthid/Yaaf.Xmpp.ServerDialback.svg?branch=master)](https://travis-ci.org/matthid/Yaaf.Xmpp.ServerDialback)
-[![Build status](https://ci.appveyor.com/api/projects/status/cadxq6ofubx739b1/branch/master?svg=true)](https://ci.appveyor.com/project/matthid/yaaf-xmpp-vcard/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/g5r7ysahmg0y0knt/branch/master?svg=true)](https://ci.appveyor.com/project/matthid/yaaf-xmpp-serverdialback/branch/master)
 
 ## NuGet
 
