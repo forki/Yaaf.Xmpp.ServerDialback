@@ -11,7 +11,6 @@ open Yaaf.Helper
 open Yaaf.Xmpp
 open Yaaf.Xmpp.Runtime
 open Yaaf.Xmpp.Server
-open Yaaf.Xmpp.ServiceDiscovery
 open Yaaf.Xmpp.XmlStanzas
 
 /// Defines the service to set and request vcards
