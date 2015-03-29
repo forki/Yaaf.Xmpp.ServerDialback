@@ -13,7 +13,7 @@ nuget Yaaf.Xmpp.Runtime
 // Until Visual Studio test runner supports later versions.
 nuget NUnit == 2.6.3
 nuget Unquote
-nuget Foq
+nuget Foq content: None
 nuget FsUnit
 
 github matthid/Yaaf.FSharp.Helper src/test/Test.Yaaf.FSharp.Helper/MyTestClass.fs
